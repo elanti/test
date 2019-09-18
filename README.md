@@ -6,7 +6,7 @@ blandit tellus, ut laoreet ante fermentum a. Suspendisse interdum urna laoreet l
 luctus. Nulla facilisi.
 
 ### Table of Contents
-1. Introduction
+1. [Introduction](pdfs/introduction.pdf)
 2. Mathematical foundations
 3. A simple example
 4. Gyrokinetic theory
